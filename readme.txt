@@ -70,6 +70,12 @@ Installing "Simple System Status" can be done either by searching for "Simple Sy
 1. Upload the ZIP file through the 'Plugins > Add New > Upload' screen in your WordPress dashboard
 1. Activate the plugin through the 'Plugins' menu in WordPress
 
+== Screenshots ==
+
+1. The 'Simple System Status' menu item, under 'Tools'
+2. The Main Screen for viewing System Status, with download link (textfile)
+3. Remote Viewing Link - Generate A Link to share stats with others.
+
 == Frequently Asked Questions ==
 
 = What is the Simple System Status for? =
