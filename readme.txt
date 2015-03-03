@@ -18,7 +18,8 @@ Simple System Status adds a submenu item under the 'tools' section of your WordP
 
 = What others are saying =
 
-*This is a brilliant plugin for getting all the relevant info out of your system. The built-in remote viewing option for letting other people securely access your system status is incredibly helpful for remote debugging. Nice work :) * - ** [Hugh Lashbrooke, WooThemes Developer](http://www.hughlashbrooke.com/) **
+*This is a brilliant plugin for getting all the relevant info out of your system. The built-in remote viewing option for letting other people securely access your system status is incredibly helpful for remote debugging. Nice work :)* 
+~ *[Hugh Lashbrooke, WooThemes Developer](http://www.hughlashbrooke.com/)*
 
 = What Simple System Status Displays For You =
 
