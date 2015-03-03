@@ -16,9 +16,13 @@ View Information about your WordPress Configuration (Defaults, Themes, Plugins) 
 
 Simple System Status adds a submenu item under the 'tools' section of your WordPress installation.
 
-**What Simple System Status Shows you:**
+= What others are saying =
 
-WordPress Environment:
+*This is a brilliant plugin for getting all the relevant info out of your system. The built-in remote viewing option for letting other people securely access your system status is incredibly helpful for remote debugging. Nice work :) * - ** [Hugh Lashbrooke, WooThemes Developer](http://www.hughlashbrooke.com/) **
+
+= What Simple System Status Displays For You =
+
+**WordPress Environment:**
 
 - WP Version.
 - Checks if WP_DEBUG is turned on.
@@ -30,19 +34,19 @@ WordPress Environment:
 - Registered Post Stati
 - Show On Front Information
 
-Theme Information:
+**Theme Information:**
 
 - Theme Name, Version, Author and Author URI
 - Checks if current active theme is a Child Theme
 - If current theme is a child theme, it offers Parent Theme information.
 
-Plugin Information:
+**Plugin Information:**
 
 - Must Use Plugins (if any)
 - Active Plugins
 - Inactive Plugins
 
-Server Environment:
+**Server Environment:**
 
 - PHP Information
 - PHP Extensions
@@ -51,16 +55,28 @@ Server Environment:
 - Host (if possible)
 - Session Configuration
 
-Client Details:
+**Client Details:**
 
 - Platform OS
 - Browser: Name, Version, User Agent String.
 
 You can use this for your own debugging purposes or for sharing with Support via two methods: A Dynamic Link, or a text file you can download and send.
 
+= Issues and Support =
+
+If you find a bug that you would like to report, please open a [New Issue on Github](https://github.com/leogopal/Simple-System-Status-for-WordPress/issues/new).
+
+If you want help using the plugin, please use the default [WordPress Plugin Forum](https://wordpress.org/support/plugin/simple-system-status)
+
+= Contribute =
+
 Want to contribute? [Fork the GitHub repository](https://github.com/leogopal/Simple-System-Status-for-WordPress).
 
-If you found this plugin useful, donations are welcome: [Buy me a snack.](http://dayofcode.net/donate/)
+= Like the Plugin? =
+
+If you found this plugin useful, **[please give it a rating](https://wordpress.org/support/view/plugin-reviews/simple-system-status?rate=5#postform)**
+
+Donations are welcome: [Buy me a snack.](http://dayofcode.net/donate/)
 
 == Installation ==
 
