@@ -18,8 +18,22 @@ Simple System Status adds a submenu item under the 'tools' section of your WordP
 
 = What others are saying =
 
-*This is a brilliant plugin for getting all the relevant info out of your system. The built-in remote viewing option for letting other people securely access your system status is incredibly helpful for remote debugging. Nice work :)* 
+*This is a brilliant plugin for getting all the relevant info out of your system. The built-in remote viewing option for letting other people securely access your system status is incredibly helpful for remote debugging. Nice work :)*
 ~ *[Hugh Lashbrooke, WooThemes Lead Developer](http://www.hughlashbrooke.com/)*
+
+= Like the Plugin? =
+
+If you found this plugin useful, **[please give it a rating](https://wordpress.org/support/view/plugin-reviews/simple-system-status?rate=5#postform)**
+Donations are welcome: [Buy me a snack.](http://dayofcode.net/donate/)
+
+= Issues and Support =
+
+If you find a bug that you would like to report, please open a [New Issue on Github](https://github.com/leogopal/Simple-System-Status-for-WordPress/issues/new).
+If you want help using the plugin, please use the default [WordPress Plugin Forum](https://wordpress.org/support/plugin/simple-system-status).
+
+= Contribute =
+
+Want to contribute? [Fork the GitHub repository](https://github.com/leogopal/Simple-System-Status-for-WordPress).
 
 = What Simple System Status Displays For You =
 
@@ -62,20 +76,6 @@ Simple System Status adds a submenu item under the 'tools' section of your WordP
 - Browser: Name, Version, User Agent String.
 
 You can use this for your own debugging purposes or for sharing with Support via two methods: A Dynamic Link, or a text file you can download and send.
-
-= Issues and Support =
-
-If you find a bug that you would like to report, please open a [New Issue on Github](https://github.com/leogopal/Simple-System-Status-for-WordPress/issues/new).
-If you want help using the plugin, please use the default [WordPress Plugin Forum](https://wordpress.org/support/plugin/simple-system-status).
-
-= Contribute =
-
-Want to contribute? [Fork the GitHub repository](https://github.com/leogopal/Simple-System-Status-for-WordPress).
-
-= Like the Plugin? =
-
-If you found this plugin useful, **[please give it a rating](https://wordpress.org/support/view/plugin-reviews/simple-system-status?rate=5#postform)**
-Donations are welcome: [Buy me a snack.](http://dayofcode.net/donate/)
 
 == Installation ==
 
