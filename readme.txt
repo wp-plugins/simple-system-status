@@ -3,8 +3,8 @@ Contributors: leogopal
 Donate link: http://dayofcode.net/donate/
 Tags: wordpress, system, status, developer, tools, debug, debugging
 Requires at least: 3.9
-Tested up to: 4.1.1
-Stable tag: 1.0.0
+Tested up to: 4.1.2
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -98,7 +98,9 @@ Installing "Simple System Status" can be done either by searching for "Simple Sy
 This plugin is to View Information about your WordPress Configurationa and Server Information that is useful for debugging.
 
 == Changelog ==
+= 1.0.1 =
+* Minor refactoring
 
-= 1.0 =
+= 1.0.0 =
 * 2015-03-01
 * Initial release
